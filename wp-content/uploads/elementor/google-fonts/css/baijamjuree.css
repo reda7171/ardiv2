@@ -1,0 +1,432 @@
+/* thai */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-63aca8da.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-1c852a6d.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-92643ecb.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-efc2694a.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* thai */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-4d10fd38.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-8aeeba2b.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-ee88322b.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-94f05fb5.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* thai */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-b8831357.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-860f74f8.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-7c57c246.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-70b27c24.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* thai */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-a59e7cdc.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-0ff3caa7.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-517ad571.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-77fd090a.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* thai */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-442ba9ca.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-f5f042b4.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-0e5da15e.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-576de311.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* thai */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-14981f7e.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-f3bea16c.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-925e392f.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-8bc88a6f.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* thai */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-494e9e30.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-57b9813c.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-2ead1b61.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-8f0e431a.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* thai */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-130fe55b.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-19875ad5.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-b052577c.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-e692e293.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* thai */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-ca7e36db.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-df869c39.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-0d27b67c.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-b14c0d21.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* thai */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-3f73d15a.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-8da6f72a.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-07d3c587.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-71a64ab8.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* thai */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-5e312482.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-403287f6.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-58ec0994.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-01b29842.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* thai */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-b17bc70d.woff2) format('woff2');
+  unicode-range: U+02D7, U+0303, U+0331, U+0E01-0E5B, U+200C-200D, U+25CC;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-d2888603.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-6a3c1e67.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://webingenius.com/ardiv2/wp-content/uploads/elementor/google-fonts/fonts/baijamjuree-cef8a700.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
